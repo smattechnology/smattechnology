@@ -1,76 +1,33 @@
-🧑‍💻 Abir Hasan Turno
+👋 Hi there, I'm Abir Hasan Turno
 Full-Stack Web Developer | Android Developer | Desktop App Developer | Software Engineer
 
-Hi! I'm Abir Hasan Turno, a passionate software developer who builds scalable web apps, efficient backend systems, and cross-platform mobile & desktop applications.
-I love solving problems, optimizing performance, and building real-world products with clean, maintainable code.
+I'm a passionate software developer who builds scalable web apps, efficient backend systems, and cross-platform mobile & desktop applications.
+I love solving problems, optimizing performance, and turning ideas into production-ready software.
 
-🚀 Tech Stack
-💻 Languages
+🛠️ Skills & Technologies
 
-JavaScript / TypeScript
+Languages:
+JavaScript, TypeScript, Python, Java, C, C++, Dart, SQL (PostgreSQL, MySQL)
 
-Python
+Web Development:
+React, Next.js, TailwindCSS, shadcn/ui, Node.js, Express.js, FastAPI, Django
 
-Java
+Mobile & Desktop:
+Flutter, Android (Java/Kotlin), Electron, Python (Tkinter / PyQt)
 
-C / C++
+Tools & DevOps:
+Git, Docker, PM2, Nginx, Linux, GitHub Actions
 
-Dart
+🌱 About Me
 
-SQL (PostgreSQL, MySQL)
+🔭 I’m currently working on improving my full-stack workflow
 
-🧩 Frameworks & Tools
+⚡ Love building secure and scalable authentication systems
 
-Backend: Node.js, Express.js, FastAPI, Django
+💡 Passionate about backend architecture and performance optimization
 
-Frontend: React, Next.js, Tailwind, shadcn/ui
+📊 GitHub Stats
 
-Mobile: Flutter, Android (Java/Kotlin)
+Replace YOUR_USERNAME with your actual GitHub username.
 
-Desktop: Electron, Python (Tkinter/PyQt)
-
-DevOps: Docker, PM2, Nginx, GitHub Actions
-
-Databases: PostgreSQL, MySQL, MongoDB, Redis
-
-🔥 What I Do
-
-🚀 Build full-stack applications (REST APIs + frontend)
-
-📱 Develop Android and Flutter apps
-
-🖥️ Create desktop applications (Electron & Python)
-
-🗄️ Design secure and scalable authentication systems
-
-⚡ Manage servers, deploy with Docker, PM2, Nginx
-
-🛡️ Implement production-ready security and session systems
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180" /> </p>
-🧠 Currently Learning
-
-Advanced DevOps
-
-Distributed systems
-
-System design
-
-High-performance backend architecture
-
-📫 Connect With Me
-
-Email: your-email@example.com
-
-LinkedIn: your-linkedin
-
-Portfolio: your-website
-
-🏆 Vision
-
-Build products that scale, solve real problems, and help people.
-
-⭐ Fun Fact
-
-I love exploring new technologies and turning ideas into production-ready applications.
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160" /> </p>
